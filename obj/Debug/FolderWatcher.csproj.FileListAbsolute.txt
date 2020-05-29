@@ -8,3 +8,13 @@ C:\Users\NinethSense\Desktop\FolderWatcher\obj\Debug\FolderWatcher.csproj.CoreCo
 C:\Users\NinethSense\Desktop\FolderWatcher\obj\Debug\FolderWatcher.exe
 C:\Users\NinethSense\Desktop\FolderWatcher\obj\Debug\FolderWatcher.pdb
 C:\Users\NinethSense\Desktop\FolderWatcher\obj\Debug\FolderWatcher.MainForm.resources
+D:\MyGitHub\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+D:\MyGitHub\FolderWatcher\bin\Debug\FolderWatcher.exe
+D:\MyGitHub\FolderWatcher\bin\Debug\FolderWatcher.pdb
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.csprojAssemblyReference.cache
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.MainForm.resources
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.Properties.Resources.resources
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.cache
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.csproj.CoreCompileInputs.cache
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.exe
+D:\MyGitHub\FolderWatcher\obj\Debug\FolderWatcher.pdb
